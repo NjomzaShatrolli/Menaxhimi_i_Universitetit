@@ -9,7 +9,8 @@ namespace TI_Project.BO
     public class Faculty : Base
     {
         public string Faculty_Name { get; set; }
-        public string Faculty_Email { get; set; }
+       
+       public string Faculty_Email { get; set; }
 
         public string Faculty_Phone { get; set; }
 
