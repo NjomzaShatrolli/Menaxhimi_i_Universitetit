@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TIProject.BLL\bin\Debug\TIProject.BLL.exe.config
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TIProject.BLL\bin\Debug\TIProject.BLL.exe
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TIProject.BLL\bin\Debug\TIProject.BLL.pdb
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TIProject.BLL\bin\Debug\TI_Project.BO.exe
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TIProject.BLL\bin\Debug\TI_Project.DAL.exe
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TIProject.BLL\bin\Debug\TI_Project.BO.pdb
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TIProject.BLL\bin\Debug\TI_Project.BO.exe.config
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TIProject.BLL\bin\Debug\TI_Project.DAL.pdb
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TIProject.BLL\bin\Debug\TI_Project.DAL.exe.config
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TIProject.BLL\obj\Debug\TIProject.BLL.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TIProject.BLL\obj\Debug\TIProject.BLL.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TIProject.BLL\obj\Debug\TIProject.BLL.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TIProject.BLL\obj\Debug\TIProject.BLL.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TIProject.BLL\obj\Debug\TIProject.BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TIProject.BLL\obj\Debug\TIProject.BLL.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TIProject.BLL\obj\Debug\TIProject.BLL.exe
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TIProject.BLL\obj\Debug\TIProject.BLL.pdb

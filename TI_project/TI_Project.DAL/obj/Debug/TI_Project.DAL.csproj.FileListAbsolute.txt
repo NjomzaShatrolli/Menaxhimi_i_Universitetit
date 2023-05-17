@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TI_Project.DAL\bin\Debug\TI_Project.DAL.exe.config
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TI_Project.DAL\bin\Debug\TI_Project.DAL.exe
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TI_Project.DAL\bin\Debug\TI_Project.DAL.pdb
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TI_Project.DAL\bin\Debug\TI_Project.BO.exe
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TI_Project.DAL\bin\Debug\TI_Project.BO.pdb
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TI_Project.DAL\bin\Debug\TI_Project.BO.exe.config
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TI_Project.DAL\obj\Debug\TI_Project.DAL.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TI_Project.DAL\obj\Debug\TI_Project.DAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TI_Project.DAL\obj\Debug\TI_Project.DAL.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TI_Project.DAL\obj\Debug\TI_Project.DAL.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TI_Project.DAL\obj\Debug\TI_Project.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TI_Project.DAL\obj\Debug\TI_Project.DAL.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TI_Project.DAL\obj\Debug\TI_Project.DAL.exe
+C:\Users\HP\OneDrive\Desktop\Menaxhimi_i_Universitetit-main\TI_project\TI_Project.DAL\obj\Debug\TI_Project.DAL.pdb
